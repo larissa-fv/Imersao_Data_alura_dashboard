@@ -1,4 +1,4 @@
-# Imersao_Data_alura_dashboard
+# Imersão de DADOS Alura 2025 - Criando um Dashboard com Python
 
 Projeto de análise e visualização de dados utilizando Python, desenvolvido durante a Imersão Data da Alura.
 
