@@ -28,6 +28,10 @@ df = pd.read_csv("https://raw.githubusercontent.com/guilhermeonrails/data-jobs/r
 
 --------------------------------------------
 
+
+
+<img width="1360" height="646" alt="image" src="https://github.com/user-attachments/assets/71db8f0a-36b7-4912-8ed6-c991c0ceea11" />
+
 Objetivo Final
 Construir um dashboard interativo para análise dos dados salariais na area de tecnologia, permitindo uma visualização dinâmica e intuitiva para o usuário.
 
